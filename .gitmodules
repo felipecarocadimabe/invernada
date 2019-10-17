@@ -1,0 +1,4 @@
+[submodule "dansanti/l10n_cl_dte_exportacion"]
+	path = dansanti/l10n_cl_dte_exportacion
+	url = git@github.com:dansanti/l10n_cl_dte_exportacion.git
+	branch = 9.0
