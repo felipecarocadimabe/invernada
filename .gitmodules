@@ -2,3 +2,8 @@
 	path = dansanti/l10n_cl_dte_exportacion
 	url = git@github.com:dansanti/l10n_cl_dte_exportacion.git
 	branch = 9.0
+
+[submodule "felipecarocadimabe/l10n_cl_fe"]
+	path = felipecarocadimabe/l10n_cl_fe
+	url = git@github.com:felipecarocadimabe/l10n_cl_fe.git
+	branch = master
